@@ -1,0 +1,11 @@
+1.WAP for eligibility of a canditate voter_id,
+  suppose age between (18 to 80 years old) using flow control conditions?
+
+2.WAP for calculating student marks in 5-subjects,and find  grades,(suppose grade A,B,C and Fail)?
+
+3.WAP for finding  even or odd number using (if .. else ... condition)?
+
+4.WAP calculating area of a circle, result in positive integers only not in float values
+(hint: pi=3.14,using int() function)?
+
+5.WAP for finding  variables A and B are having the same memory location?

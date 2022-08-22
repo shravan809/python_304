@@ -1,0 +1,24 @@
+1.what is a variable in and describe the role of variable in python memory management?
+2.what are the advantages and disadvantages of type casting?
+3.what is the difference between while loop and for loop?
+4.write 5 string method with example?
+5.write the Precedence rule of python with example?
+
+-*******************************************************************************************-
+problem statement:-
+
+Write a program to check whether the given password is valid or not .
+
+conisder the password to be valid if it contain at least one digit ands one capital.
+
+
+
+input:it will be a single line containng string
+
+output: valid password or invalid password
+
+
+
+ex:GJ22191gopi
+
+ouput:valid password

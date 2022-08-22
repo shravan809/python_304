@@ -1,0 +1,13 @@
+1.  Add a list of elements to a given set
+2. Return a set of identical items from a given two Python
+3.Returns a new set with all items from both sets by removing duplicates
+4.Given two Python sets, update first set with items that exist only in the first set and not in the second set.
+5.Remove 10, 20, 30 elements from a following set at once
+6.Return a set of all elements in either A or B, but not both
+7.Determines whether or not the following two sets have any elements in common. If yes display the common elements
+8. Update set1 by adding items from set2, except common items
+9. Remove items from set1 that are not common to both set1 and set2
+10.Write a Python program to check if a given set is superset of itself and superset of another given set
+11.Write a Python program to check a given set has no elements in common with other given set
+12.Write a Python program to remove the intersection of a 2nd set from the 1st set.
+13. Perform all sets methods by taking an example of your own.
