@@ -1,0 +1,22 @@
+1.write a python program to print the pattern
+        * 
+       * * 
+      * * * 
+     * * * * 
+    * * * * * 
+   * * * * * * 
+    * * * * * 
+     * * * * 
+      * * * 
+       * * 
+        *
+2.How would you check if each word in a string begins with a capital letter?
+3.Write a Python program that prints all the numbers from 0 to 6 except 4 and 5.
+4.Print list of elements and store in a another list and print  reverse order of list 
+5.write a python program to print the pattern
+            A  
+           B C  
+          D E F  
+         G H I J  
+        K L M N O  
+       P Q R S T U
